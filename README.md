@@ -26,3 +26,10 @@ I'm a {Engenheiro Cartógrafo,Técnico em edificações} developer and technical
 ![](https://img.shields.io/github/release/pandao/editor.md.svg)
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
+
+# Tecnologias
+
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
