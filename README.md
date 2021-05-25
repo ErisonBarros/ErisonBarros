@@ -10,10 +10,10 @@
 [![Youtube Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://https://www.facebook.com/erison.barros)](https://www.facebook.com/erison.barros)
 
 ### About me
-I'm a {Engenheiro Cartógrafo,Técnico em edificações} developer and technical instructor at xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+I'm a {Engenheiro Cartógrafo,Técnico em edificações} developer and technical instructor at Spatial Data Science Jobs
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, R,  Python,  and more.
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
+- [UFPE](https://www.ufpe.br/decarto) 👨🏼‍🏫 - It's are technical courses on many technologies, R,  Python,  and more.https://www.ufpe.br/decart
+- [Blog](https://www.ufpe.br/decart/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
 
 ![](https://github.com/ErisonBarros/labat.github.io/blob/master/.gitbook/assets/foto_perfil.jpg)
 
@@ -22,9 +22,30 @@ I'm a {Engenheiro Cartógrafo,Técnico em edificações} developer and technical
 # Currículo Lattes:
 http://lattes.cnpq.br/8237482217038157
 
+# Automação de Processos Administratvos da UFPE.
+
+https://linktr.ee/ProfErisonBarros
+
 # Homepage
 
 https://erobeng.wixsite.com/ufpe
+
+# Trabalhos Técnicos
+
+* 1	    Georreferenciamento para Certificação de Imóveis Rurais de Projetos de Assentamento	2014
+* 2	    Participação no Relatório de Controle Ambiental – RCA referente à construção de um atracadouro e retificação da margem direita do Rio Potengi Natal/RN	2014
+* 3	    Plano Geral de Implantação do Parque do Jiquiá - Torre do Zeppelin - no bairro do Jiquiá, município Recife-PE.	2014
+* 4	    Elaboração de Estudo de Impacto Ambiental/ Relatório de Impacto Ambiental (EIA- RIMA), Planos Básicos Ambientais – PBAs, Audiências Públicas e licenciamento ambiental, referente ao Projeto Executivo de Duplicação da Rodovia BR-116/CE, trecho: Pacajus, Boqueirão do Cesário , com 58,94 km de extensão.	2013
+* 5	    ELABORAÇÃO DOS MAPAS DE ESTUDO DE IMAPCTO AMBIENTAL DA DUPLICAÇAO E CONSERVAÇAO DA BR 423 ENTRE OS MUNCIPIOS DE SAO CAETANO A GARANHUNS	2013
+* 6	    Produção Relevante    Testes e Homologação no Sistema de Gestão Fundiária- SIGEF	2013
+* 7	    Elaboração do inventário florestal, Plano Desmatamento Racional e projeto de Reposição Florestal de uma área de 40 hectares na área de implantação do Terminal Aquaviário do Pecém/CE.	2012
+* 8	    Relatório Técnico de Indentificação e Delimitação do Território da Comunidade Remanescente de Quilombo do Tímbó	2011
+
+# Arigos Públicados:
+http://www.lsie.unb.br/rbc/index.php/rbc/article/view/563
+
+# Responsável Técnico pela Certificação do Georreferenciamento de Imóveis Rurais.
+https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf_cnpj=&proprietario=&cns=&matricula=&codigo=&protocolo=&credenciado=DWG&vertice=&sncr=
 
 # Editor
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
