@@ -32,14 +32,35 @@ https://erobeng.wixsite.com/ufpe
 
 # Trabalhos Técnicos
 
-* 1	    Georreferenciamento para Certificação de Imóveis Rurais de Projetos de Assentamento	2014
-* 2	    Participação no Relatório de Controle Ambiental – RCA referente à construção de um atracadouro e retificação da margem direita do Rio Potengi Natal/RN	2014
-* 3	    Plano Geral de Implantação do Parque do Jiquiá - Torre do Zeppelin - no bairro do Jiquiá, município Recife-PE.	2014
-* 4	    Elaboração de Estudo de Impacto Ambiental/ Relatório de Impacto Ambiental (EIA- RIMA), Planos Básicos Ambientais – PBAs, Audiências Públicas e licenciamento ambiental, referente ao Projeto Executivo de Duplicação da Rodovia BR-116/CE, trecho: Pacajus, Boqueirão do Cesário , com 58,94 km de extensão.	2013
-* 5	    ELABORAÇÃO DOS MAPAS DE ESTUDO DE IMAPCTO AMBIENTAL DA DUPLICAÇAO E CONSERVAÇAO DA BR 423 ENTRE OS MUNCIPIOS DE SAO CAETANO A GARANHUNS	2013
-* 6	    Produção Relevante    Testes e Homologação no Sistema de Gestão Fundiária- SIGEF	2013
-* 7	    Elaboração do inventário florestal, Plano Desmatamento Racional e projeto de Reposição Florestal de uma área de 40 hectares na área de implantação do Terminal Aquaviário do Pecém/CE.	2012
-* 8	    Relatório Técnico de Indentificação e Delimitação do Território da Comunidade Remanescente de Quilombo do Tímbó	2011
+*  Georreferenciamento para Certificação de Imóveis Rurais de Projetos de Assentamento	2014
+*  Participação no Relatório de Controle Ambiental – RCA referente à construção de um atracadouro e retificação da margem direita do Rio Potengi Natal/RN	2014
+*  Plano Geral de Implantação do Parque do Jiquiá - Torre do Zeppelin - no bairro do Jiquiá, município Recife-PE.	2014
+*  Elaboração de Estudo de Impacto Ambiental/ Relatório de Impacto Ambiental (EIA- RIMA), Planos Básicos Ambientais – PBAs, Audiências Públicas e licenciamento ambiental, referente ao Projeto Executivo de Duplicação da Rodovia BR-116/CE, trecho: Pacajus, Boqueirão do Cesário , com 58,94 km de extensão.	2013
+*  ELABORAÇÃO DOS MAPAS DE ESTUDO DE IMAPCTO AMBIENTAL DA DUPLICAÇAO E CONSERVAÇAO DA BR 423 ENTRE OS MUNCIPIOS DE SAO CAETANO A GARANHUNS	2013
+*  Produção Relevante    Testes e Homologação no Sistema de Gestão Fundiária- SIGEF	2013
+*  Elaboração do inventário florestal, Plano Desmatamento Racional e projeto de Reposição Florestal de uma área de 40 hectares na área de implantação do Terminal Aquaviário do Pecém/CE.	2012
+*   Relatório Técnico de Indentificação e Delimitação do Território da Comunidade Remanescente de Quilombo do Tímbó	2011
+
+# Formação Acadêmica
+* Doutorado em andamento em Engenharia Civil  - 2017 - Atual Universidade Federal de Pernambuco
+  Orientador: Maurício Oliveira de Andrade
+* Mestrado em Ciênc. Geodésicas e Tecnologias da Geoinformação - 2009 - 2011
+* Especialização em Auditória, Avaliação e Perícia em Engenharia - 2012 - 2014
+* Graduação em Engenharia Cartográfica - 2001 - 2007
+* Curso técnico/profissionalizante - 1996 - 1999
+
+# Projetos de pesquisa
+2016 - Atual
+ESTUDO DA APLICAÇÃO DA ISO 19.152 PARA O APERFEIÇOAMENTO DO CADASTRO TERRITORIAL RURAL DE PERNAMBUCO, Descrição: Propor e desenvolver um modelo conceitual baseado na ISO 19.152 para a implementação de Cadastros Territoriais Rural para o estado de Pernambuco.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (1) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . , Integrantes: Erison Rosa de Oliveira Barros - Coordenador.
+
+# Disciplinas que Ministra Aulas
+> Projeto de Levantamento Topográfico
+> Legislação Territorial
+> Parcelamento Territorial
+> Topografia 01
+> Topografia 02
+
+
 
 # Arigos Públicados:
 http://www.lsie.unb.br/rbc/index.php/rbc/article/view/563
