@@ -12,7 +12,7 @@
 ### About me
 I'm a {Engenheiro Cartógrafo,Técnico em edificações} developer and technical instructor at Spatial Data Science Jobs
 
-- [UFPE](https://www.ufpe.br/decarto) 👨🏼‍🏫 - It's are technical courses on many technologies, R,  Python,  and more.https://www.ufpe.br/decart
+- [UFPE](https://www.ufpe.br/decarto) 👨🏼‍🏫 - These are college courses on many technologies, R, Python, and more.https://www.ufpe.br/decart
 - [Blog](https://www.ufpe.br/decart/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
 
 ![](https://github.com/ErisonBarros/labat.github.io/blob/master/.gitbook/assets/foto_perfil.jpg)
