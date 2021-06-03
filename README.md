@@ -19,6 +19,32 @@ I'm a {Engenheiro Cartógrafo,Técnico em edificações} developer and technical
 
 >Mestre em Ciências Geodésicas e Tecnologias da Geoinformação pela Universidade Federal de Pernambuco (2011) UFPE.Possui graduação em Engenharia Cartográfica pela Universidade Federal de Pernambuco (2007) UFPE. Formação de Nível Médio Técnico em Edificações pelo CEFET-PE (IFPE), Especialização em Auditoria, Avaliação e Perícias da Engenharia (2014) pelo IPOG. Doutorado em Andamento em Engenharia Civil pela Universidade Federal de Pernambuco, na área de concentração: Transportes e Gestão das Infra-estruturas Urbanas. Atualmente exercer o cargo de Professor Assistente no Departamento de Engenharia Cartográfica (Decart) da Universidade Federal de Pernambuco - UFPE; Foi Inspetor Coordenador do Conselho Regional de Engenharia e Agronomia de Pernambuco na Inspetoria de Carpina-PE (2009-2017). Já foi professor substituto no Departamento de Engenharia Cartográfica da Universidade Federal de Pernambuco - UFPE. Já foi Técnico em Reforma e Desenvolvimento Agrário pelo Instituto Nacional de Colonização e Reforma Agrária INCRA na Superintendência do estado de Pernambuco SR 03(PE). Atuou como Vice Presidente do Comitê de Certificação de Imóveis Rurais da Superintendência Regional de Pernambuco SR03 (PE). Foi Membro da Equipe de Testes e Homologação do Sistema de Gestão Fundiária - SIGEF. Membro do GT Sistema de Certificação Automatizada de Imóveis Rurais. Professor Substituto do Departamento de Engenharia Cartográfica da UFPE.
 
+# Features
+
+- [GitHub Stats Card](#github-stats-card)
+- [GitHub Extra Pins](#github-extra-pins)
+- [Top Languages Card](#top-languages-card)
+- [Wakatime Week Stats](#wakatime-week-stats)
+- [Themes](#themes)
+- [Customization](#customization)
+- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
+
+# GitHub Stats Card
+
+Copy-paste this into your markdown content, and that's it. Simple!
+
+Change the `?username=` value to your GitHub's username.
+
+```md
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErisonBarros)](https://github.com/ErisonBarros/github-readme-stats)
+
+```
+
+_Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
+The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
+The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js)_
+
+
 # Currículo Lattes:
 http://lattes.cnpq.br/8237482217038157
 
@@ -75,6 +101,10 @@ https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf
 ![](https://img.shields.io/github/release/pandao/editor.md.svg)
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
+
+# Tecnologias Empregadas 
+
+
 
 # Tecnologias
 
