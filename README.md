@@ -1,4 +1,5 @@
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 # Hi, I'm Erison Rosa de Oliveira Barros! :D
@@ -9,41 +10,55 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf-oBG1kqnpAFrzaiW93kmg)](https://www.youtube.com/channel/UCf-oBG1kqnpAFrzaiW93kmg)
 [![Youtube Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://https://www.facebook.com/erison.barros)](https://www.facebook.com/erison.barros)
 
-### About me
-I'm a {Engenheiro Cartógrafo,Técnico em edificações} developer and technical instructor at Spatial Data Science Jobs
 
-- [UFPE](https://www.ufpe.br/decarto) 👨🏼‍🏫 - These are college courses on many technologies, R, Python, and more.https://www.ufpe.br/decart
-- [Blog](https://www.ufpe.br/decart/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
+# About me
+I'm a {Mestre em Ciencias Geodésicas e Tecnologias da Geoinfomação Engenheiro Cartógrafo,Técnico em Edificações} developer and technical instructor at Spatial Data Science and Topograph and Adjustment of Observations.
+
+## Areas of Interest
+- [UFPE](https://www.ufpe.br/decart) 👨🏼‍🏫 - These are college courses on many technologies, R, Python, and more.https://www.ufpe.br/decart
+- [Blog](https://proferisonbarros.blogspot.com/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
 
 ![](https://github.com/ErisonBarros/labat.github.io/blob/master/.gitbook/assets/foto_perfil.jpg)
 
 >Mestre em Ciências Geodésicas e Tecnologias da Geoinformação pela Universidade Federal de Pernambuco (2011) UFPE.Possui graduação em Engenharia Cartográfica pela Universidade Federal de Pernambuco (2007) UFPE. Formação de Nível Médio Técnico em Edificações pelo CEFET-PE (IFPE), Especialização em Auditoria, Avaliação e Perícias da Engenharia (2014) pelo IPOG. Doutorado em Andamento em Engenharia Civil pela Universidade Federal de Pernambuco, na área de concentração: Transportes e Gestão das Infra-estruturas Urbanas. Atualmente exercer o cargo de Professor Assistente no Departamento de Engenharia Cartográfica (Decart) da Universidade Federal de Pernambuco - UFPE; Foi Inspetor Coordenador do Conselho Regional de Engenharia e Agronomia de Pernambuco na Inspetoria de Carpina-PE (2009-2017). Já foi professor substituto no Departamento de Engenharia Cartográfica da Universidade Federal de Pernambuco - UFPE. Já foi Técnico em Reforma e Desenvolvimento Agrário pelo Instituto Nacional de Colonização e Reforma Agrária INCRA na Superintendência do estado de Pernambuco SR 03(PE). Atuou como Vice Presidente do Comitê de Certificação de Imóveis Rurais da Superintendência Regional de Pernambuco SR03 (PE). Foi Membro da Equipe de Testes e Homologação do Sistema de Gestão Fundiária - SIGEF. Membro do GT Sistema de Certificação Automatizada de Imóveis Rurais. Professor Substituto do Departamento de Engenharia Cartográfica da UFPE.
 
-# Features
+# GitHub Readme Stats
 
-- [GitHub Stats Card](#github-stats-card)
-- [GitHub Extra Pins](#github-extra-pins)
-- [Top Languages Card](#top-languages-card)
-- [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
-- [Customization](#customization)
-- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
+<p align="center">
+ <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+</p>
+  <p align="center">
+    <a href="https://github.com/ErisonBarros/github-readme-stats/actions">
+    <a href="https://codecov.io/gh/ErisonBarros/github-readme-stats">
+      <img src="https://codecov.io/gh/ErisonBarros/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/ErisonBarros/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/ErisonBarros/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/ErisonBarros/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ErisonBarros/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
+    <br />
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="#demo">View Demo</a>
+    ·
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+  </p>
 
 # GitHub Stats Card
 
-Copy-paste this into your markdown content, and that's it. Simple!
-
-Change the `?username=` value to your GitHub's username.
-
-```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErisonBarros)](https://github.com/ErisonBarros/github-readme-stats)
-
-```
-
-_Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
-The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
-The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js)_
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErisonBarros&show_icons=true&theme=radical)
 
 # Currículo Lattes:
 http://lattes.cnpq.br/8237482217038157
@@ -105,6 +120,9 @@ https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf
 # Tecnologias Empregadas 
 
 
+## Compact Language Card Layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErisonBarros&layout=compact)](https://github.com/ErisonBarros/github-readme-stats)
 
 # Tecnologias
 
