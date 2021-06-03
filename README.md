@@ -16,8 +16,23 @@
 I'm a {Mestre em Ciencias Geodésicas e Tecnologias da Geoinfomação Engenheiro Cartógrafo,Técnico em Edificações} developer and technical instructor at Spatial Data Science and Topograph and Adjustment of Observations.
 
 ## Areas of Interest
-- [UFPE](https://www.ufpe.br/decart) 👨🏼‍🏫 - These are college courses on many technologies, R, Python, and more.https://www.ufpe.br/decart
+- [UFPE](https://www.ufpe.br/decart) 👨🏼‍🏫 - These are college courses on many technologies, R, Python e Qgis and more.https://www.ufpe.br/decart
 - [Blog](https://proferisonbarros.blogspot.com/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
+
+## Softwares
+ - R
+ 
+ - Python
+ 
+ - Qgis
+
+
+[![Tests](https://github.com/qgis/QGIS/workflows/QGIS%20tests/badge.svg)](https://github.com/qgis/QGIS/actions/workflows/run-tests.yml?query=branch%3Amaster+event%3Apush)
+[![Docker Status](https://img.shields.io/docker/automated/qgis/qgis.svg)](https://hub.docker.com/r/qgis/qgis/tags)
+[![Build Status](https://dev.azure.com/qgis/QGIS/_apis/build/status/qgis.QGIS?branchName=master)](https://dev.azure.com/qgis/QGIS/_build/latest?definitionId=1&branchName=master)
+[![Windows cross build](https://github.com/qgis/QGIS/workflows/MingW64%20Windows%2064bit%20Build/badge.svg)](https://github.com/qgis/QGIS/actions/workflows/mingw64.yml?query=branch%3Amaster+event%3Apush)
+
+QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS) that runs on Unix platforms, Windows, and MacOS.
 
 ![](https://github.com/ErisonBarros/labat.github.io/blob/master/.gitbook/assets/foto_perfil.jpg)
 
