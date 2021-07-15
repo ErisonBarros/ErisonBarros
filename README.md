@@ -18,12 +18,11 @@ I'm a {Master in Geodetic Sciences and Geoinformation Technologies Cartographer 
 ## Areas of Interest
 - [UFPE](https://www.ufpe.br/decart) 👨🏼‍🏫 - These are college courses on many technologies, R, Python e Qgis and more.https://www.ufpe.br/decart
 - [Blog](https://proferisonbarros.blogspot.com/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
+- [Blog](https://linktr.ee/ProfErisonBarros) 👨 - Activities I develop at the Cartographic Engineering Department at UFPE.https://linktr.ee/ProfErisonBarros
 
-## Softwares
+## Softwares 
  - R
- 
  - Python
- 
  - Qgis
 
 
@@ -78,6 +77,7 @@ QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical
 
 # Currículo Lattes:
 http://lattes.cnpq.br/8237482217038157
+https://sites.google.com/view/labat/01
 
 # Automação de Processos Administratvos da UFPE.
 
@@ -119,10 +119,10 @@ ESTUDO DA APLICAÇÃO DA ISO 19.152 PARA O APERFEIÇOAMENTO DO CADASTRO TERRITOR
 
 
 
-# Arigos Públicados:
+# Public Shelters:
 http://www.lsie.unb.br/rbc/index.php/rbc/article/view/563
 
-# Responsável Técnico pela Certificação do Georreferenciamento de Imóveis Rurais.
+# Technical Responsible for the Certification of the Georeferencing of Rural Properties.
 https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf_cnpj=&proprietario=&cns=&matricula=&codigo=&protocolo=&credenciado=DWG&vertice=&sncr=
 
 # Editor
@@ -134,7 +134,6 @@ https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
 # Tecnologias Empregadas 
-
 
 ## Compact Language Card Layout
 
