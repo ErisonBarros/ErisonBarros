@@ -13,7 +13,7 @@
 
 
 # About me
-I'm a {Mestre em Ciencias Geodésicas e Tecnologias da Geoinfomação Engenheiro Cartógrafo,Técnico em Edificações} developer and technical instructor at Spatial Data Science and Topograph and Adjustment of Observations.
+I'm a {Master in Geodetic Sciences and Geoinformation Technologies Cartographer Engineer, Building Technician} developer and Geospatial data science Research  and Topograph and Adjustment of Observations.
 
 ## Areas of Interest
 - [UFPE](https://www.ufpe.br/decart) 👨🏼‍🏫 - These are college courses on many technologies, R, Python e Qgis and more.https://www.ufpe.br/decart
