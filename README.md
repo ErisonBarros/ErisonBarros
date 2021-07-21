@@ -15,15 +15,28 @@
 # About me
 I'm a {Master in Geodetic Sciences and Geoinformation Technologies Cartographer Engineer, Building Technician} developer and Geospatial data science Research  and Topograph and Adjustment of Observations.
 
+Master in Geodetic Sciences and Geoinformation Technologies from the Federal University of Pernambuco (2011) UFPE.He has a degree in Cartographic Engineering from the Federal University of Pernambuco (2007) UFPE. Medium Level Technical Education in Buildings by CEFET-PE (IFPE), Specialization in Auditing, Evaluation and Expertise of Engineering (2014) by IPOG. PhD in progress in Civil Engineering at the Federal University of Pernambuco, in the concentration area: Transportation and Management of Urban Infrastructure. Currently hold the position of Assistant Professor in the Department of Cartographic Engineering (Decart) at the Federal University of Pernambuco - UFPE; He was Coordinating Inspector of the Regional Council of Engineering and Agronomy of Pernambuco in Carpina-PE (2009-2017). He was substitute professor in the Department of Cartographic Engineering at the Federal University of Pernambuco - UFPE. He has been a Technician in Agrarian Reform and Development for the National Institute of Colonization and Agrarian Reform INCRA in the Superintendence of the state of Pernambuco SR 03 (PE). He served as Vice President of the Rural Property Certification Committee of the Pernambuco Regional Superintendency SR03 (PE). He was a member of the Test and Approval Team of the Land Management System - SIGEF. Member of the WG System of Automated Certification of Rural Properties. Substitute Professor at the Department of Cartographic Engineering of UFPE.
+
 ## Areas of Interest
+- Land Management
+- Georeferencing of Urban and Rural Properties
+- Topographic Automation
+- Dados Geoespacais 
+- Land Use,
+- Geographic Intelligence Models
+
+## Links
 - [UFPE](https://www.ufpe.br/decart) 👨🏼‍🏫 - These are college courses on many technologies, R, Python e Qgis and more.https://www.ufpe.br/decart
 - [Blog](https://proferisonbarros.blogspot.com/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
 - [Blog](https://linktr.ee/ProfErisonBarros) 👨 - Activities I develop at the Cartographic Engineering Department at UFPE.https://linktr.ee/ProfErisonBarros
 
-## Softwares 
+## Programming Languages
  - R
  - Python
+
+## Geoprocessing programs
  - Qgis
+ - ArcGis
 
 
 [![Tests](https://github.com/qgis/QGIS/workflows/QGIS%20tests/badge.svg)](https://github.com/qgis/QGIS/actions/workflows/run-tests.yml?query=branch%3Amaster+event%3Apush)
@@ -33,9 +46,9 @@ I'm a {Master in Geodetic Sciences and Geoinformation Technologies Cartographer 
 
 QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS) that runs on Unix platforms, Windows, and MacOS.
 
+## Photo
 ![](https://github.com/ErisonBarros/labat.github.io/blob/master/.gitbook/assets/foto_perfil.jpg)
 
->Mestre em Ciências Geodésicas e Tecnologias da Geoinformação pela Universidade Federal de Pernambuco (2011) UFPE.Possui graduação em Engenharia Cartográfica pela Universidade Federal de Pernambuco (2007) UFPE. Formação de Nível Médio Técnico em Edificações pelo CEFET-PE (IFPE), Especialização em Auditoria, Avaliação e Perícias da Engenharia (2014) pelo IPOG. Doutorado em Andamento em Engenharia Civil pela Universidade Federal de Pernambuco, na área de concentração: Transportes e Gestão das Infra-estruturas Urbanas. Atualmente exercer o cargo de Professor Assistente no Departamento de Engenharia Cartográfica (Decart) da Universidade Federal de Pernambuco - UFPE; Foi Inspetor Coordenador do Conselho Regional de Engenharia e Agronomia de Pernambuco na Inspetoria de Carpina-PE (2009-2017). Já foi professor substituto no Departamento de Engenharia Cartográfica da Universidade Federal de Pernambuco - UFPE. Já foi Técnico em Reforma e Desenvolvimento Agrário pelo Instituto Nacional de Colonização e Reforma Agrária INCRA na Superintendência do estado de Pernambuco SR 03(PE). Atuou como Vice Presidente do Comitê de Certificação de Imóveis Rurais da Superintendência Regional de Pernambuco SR03 (PE). Foi Membro da Equipe de Testes e Homologação do Sistema de Gestão Fundiária - SIGEF. Membro do GT Sistema de Certificação Automatizada de Imóveis Rurais. Professor Substituto do Departamento de Engenharia Cartográfica da UFPE.
 
 # GitHub Readme Stats
 
@@ -88,20 +101,19 @@ https://linktr.ee/ProfErisonBarros
 https://erobeng.wixsite.com/ufpe
 
 # Trabalhos Técnicos
-
-*  Georreferenciamento para Certificação de Imóveis Rurais de Projetos de Assentamento	2014
-*  Participação no Relatório de Controle Ambiental – RCA referente à construção de um atracadouro e retificação da margem direita do Rio Potengi Natal/RN	2014
-*  Plano Geral de Implantação do Parque do Jiquiá - Torre do Zeppelin - no bairro do Jiquiá, município Recife-PE.	2014
-*  Elaboração de Estudo de Impacto Ambiental/ Relatório de Impacto Ambiental (EIA- RIMA), Planos Básicos Ambientais – PBAs, Audiências Públicas e licenciamento ambiental, referente ao Projeto Executivo de Duplicação da Rodovia BR-116/CE, trecho: Pacajus, Boqueirão do Cesário , com 58,94 km de extensão.	2013
-*  ELABORAÇÃO DOS MAPAS DE ESTUDO DE IMAPCTO AMBIENTAL DA DUPLICAÇAO E CONSERVAÇAO DA BR 423 ENTRE OS MUNCIPIOS DE SAO CAETANO A GARANHUNS	2013
-*  Produção Relevante    Testes e Homologação no Sistema de Gestão Fundiária- SIGEF	2013
-*  Elaboração do inventário florestal, Plano Desmatamento Racional e projeto de Reposição Florestal de uma área de 40 hectares na área de implantação do Terminal Aquaviário do Pecém/CE.	2012
-*   Relatório Técnico de Indentificação e Delimitação do Território da Comunidade Remanescente de Quilombo do Tímbó	2011
+- Georeferencing for Rural Property Certification of Settlement Projects 2014
+- Participation in the Environmental Control Report - RCA concerning the construction of a mooring and rectification of the right bank of the Potengi River Natal/RN 2014
+- General Implementation Plan for the Jiquiá Park - Zeppelin Tower - in the district of Jiquiá, municipality of Recife-PE. 2014
+- Elaboration of the Environmental Impact Study / Environmental Impact Report (EIA- RIMA), Basic Environmental Plans - PBAs, Public Hearings and environmental licensing, related to the Executive Project of Duplication of BR-116/CE highway, stretch: Pacajus, Boqueirão do Cesário , with 58.94 km of extension. 2013
+- ELABORATION OF THE MAPS OF THE ENVIRONMENTAL IMPACT STUDY OF THE DUPLICATION AND CONSERVATION OF BR 423 BETWEEN THE TOWNS OF SAO CAETANO AND GARANHUNS 2013
+- Relevant Production Tests and Approval of the Land Management System - SIGEF 2013
+- Elaboration of the Forest Inventory, Rational Deforestation Plan and Forest Replacement project of a 40 hectares area in the implementation area of the Pecém/CE Waterway Terminal. 2012
+- Technical Report of Indentification and Delimitation of the Territory of the Quilombo Remnant Community of Tímbó 2011
 
 # Formação Acadêmica
 * Doutorado em andamento em Engenharia Civil  - 2017 - Atual Universidade Federal de Pernambuco
   Orientador: Maurício Oliveira de Andrade
-* Mestrado em Ciênc. Geodésicas e Tecnologias da Geoinformação - 2009 - 2011
+* Mestrado em Ciências Geodésicas e Tecnologias da Geoinformação - 2009 - 2011
 * Especialização em Auditória, Avaliação e Perícia em Engenharia - 2012 - 2014
 * Graduação em Engenharia Cartográfica - 2001 - 2007
 * Curso técnico/profissionalizante - 1996 - 1999
