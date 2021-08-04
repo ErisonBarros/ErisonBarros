@@ -21,8 +21,10 @@ I am a master in Geodetic Sciences and Geoinformation Technologies from the Fede
 - Land Management
 - Georeferencing of Urban and Rural Properties
 - Topographic Automation
-- Dados Geoespacais 
-- Land Use,
+- Geographic Data 
+- Infrastructure Management
+- Land Use
+- Geographical Data Science
 - Geographic Intelligence Models
 
 ## Links
