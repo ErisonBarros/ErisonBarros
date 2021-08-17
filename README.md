@@ -125,11 +125,11 @@ https://erobeng.wixsite.com/ufpe
 ESTUDO DA APLICAÇÃO DA ISO 19.152 PARA O APERFEIÇOAMENTO DO CADASTRO TERRITORIAL RURAL DE PERNAMBUCO, Descrição: Propor e desenvolver um modelo conceitual baseado na ISO 19.152 para a implementação de Cadastros Territoriais Rural para o estado de Pernambuco.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (1) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . , Integrantes: Erison Rosa de Oliveira Barros - Coordenador.
 
 # Disciplinas que Ministra Aulas
-> Projeto de Levantamento Topográfico
-> Legislação Territorial
-> Parcelamento Territorial
-> Topografia 01
-> Topografia 02
+1. Projeto de Levantamento Topográfico
+2. Legislação Territorial
+3. Parcelamento Territorial
+4. Topografia 01
+5. Topografia 02
 
 
 
