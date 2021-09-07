@@ -94,6 +94,8 @@ QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical
 
 # Currículo Lattes:
 http://lattes.cnpq.br/8237482217038157
+
+# Responsável pelo Laboratório
 https://sites.google.com/view/labat/01
 
 # Automação de Processos Administratvos da UFPE.
