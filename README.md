@@ -208,4 +208,9 @@ https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+# Audio Visual
+
+<img src="https://i.ibb.co/LgjLyw1/tela.jpg" alt="tela" border="0">
+https://www.instagram.com/tv/CGBYEe6l0c6/
+
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
