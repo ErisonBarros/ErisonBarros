@@ -179,6 +179,15 @@ ESTUDO DA APLICAÇÃO DA ISO 19.152 PARA O APERFEIÇOAMENTO DO CADASTRO TERRITOR
 | 1.         | Fortalecimento   da Política Estadual de Cartografia: Construção de material didático para   facilitar a geração de produtos cartográficos atualizados. | O avanço das   metodologias de aquisição e processamento de dados; a reformulação das normas   para&#10;cartografia digital; a iniciativa inovadora de mapeamento do   Estado com tecnologia LiDAR pelo Projeto&#10;PE3D e a disponibilização   desses produtos de forma gratuita na internet colocam Pernambuco num... | Lattes  | 2018 |
 
 
+## Coordenação
+
+| Descrição | Detalhes:                                                                                                        | Origem                                                                                                                             | Fim  |
+|-----------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------|
+| 1.        | Coordenação de Estágio do Departamento de   Engenharia Cartográfica                                              | Desenvolvimento de atividades relativas a coordenação de   atividade de estágio dentro do departamento de engenharia Cartográfica. | 2018 |
+| 2.        | Coordenador do Laboratório de Automação   Topográfica - Labat                                                    | Desenvolvimento de atividades relativas a coordenação do   laboratório de Automação Topográfica - Labat                            | 2018 |
+| 3.        | Vice chefe do Departamento de Engenharia   cartográfica                                                          | Desenvolvimento de atividades relativas a vice chefia do   Departamento de Engenharia Cartografica - Decart                        | 2018 |
+| 4.        | Presidente da Associação Brasileira de Engenheiros   Cartógrafos e de Agrimensura Regional Pernambuco - ABECA-PE | Presidente da Associação Brasileira de Engenheiros   Cartógrafos e de Agrimensura Regional Pernambuco - ABECA-PE                   | 2019 |
+
 
 
 # Public Shelters:
