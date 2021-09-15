@@ -213,4 +213,7 @@ https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf
 <img src="https://i.ibb.co/LgjLyw1/tela.jpg" alt="tela" border="0">
 https://www.instagram.com/tv/CGBYEe6l0c6/
 
+![](https://decartufpe.org/wp-content/uploads/2020/08/covid-19-DECART_final.png) 
+https://decartufpe.org/quem-somos-2/
+
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
