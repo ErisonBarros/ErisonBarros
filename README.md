@@ -179,6 +179,14 @@ ESTUDO DA APLICAÇÃO DA ISO 19.152 PARA O APERFEIÇOAMENTO DO CADASTRO TERRITOR
 | ![](https://avatars.githubusercontent.com/u/90585076?s=400&u=cf9fac195431ae34a9342eb7ce36c068c4fc9a77&v=4)       | Presidente da Associação Brasileira de Engenheiros   Cartógrafos e de Agrimensura Regional Pernambuco - ABECA-PE | Presidente da Associação Brasileira de Engenheiros   Cartógrafos e de Agrimensura Regional Pernambuco - ABECA-PE                   | 2019 |
 
 
+# End of Course Work Orientation
+
+| Descrição | Detalhes:                                                                                               | Origem                               | Início* | Fim  | Ações |
+|-----------|---------------------------------------------------------------------------------------------------------|--------------------------------------|---------|------|-------|
+| 1.        | FERRAMENTAS AUTOMATIZADAS PARA GERAÇÃO DE   INSCRIÇÃO IMOBILIÁRIA IMPLEMENTADA NO QGIS PARA PREFEITURAS | Autor: CHARLENE ALBUQUERQUE DE SOUZA | Lattes  | 2020 | 2020  |
+
+
+
 
 # Public Shelters:
 http://www.lsie.unb.br/rbc/index.php/rbc/article/view/563
