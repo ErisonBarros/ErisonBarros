@@ -145,9 +145,16 @@ ESTUDO DA APLICAÇÃO DA ISO 19.152 PARA O APERFEIÇOAMENTO DO CADASTRO TERRITOR
 13.	CA485 - TRABALHO DE CONCLUSÃO DE CURSO 2	EB
 14.	CA485 - TRABALHO DE CONCLUSÃO DE CURSO 2	ER	
 
+## Editorial Team 
+ - The UTFPR Scientific Periodical Portal (PERI) - [O Portal de Periódicos Científicos da UTFPR (PERI)](https://periodicos.utfpr.edu.br/index/about)
+ 
+ [Proof](https://periodicos.utfpr.edu.br/rbgeo/about/editorialTeamBio/8924)
+ 
+
+
 ## Pesquisas
 
-| Descrição*   (153 Caracteres) : | Detalhes:                                                                                                                                                     | Origem                                                                                                                                                                                                                                                                                                                    | Início* | Fim  |
+| Descrição*    | Detalhes:                                                                                                                                                     | Origem                                                                                                                                                                                                                                                                                                                    | Início* | Fim  |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|------|
 | 1.                              | : POSICIONAMENTO   GEODÉSICO E CADASTRO IMOBILIÁRIO                                                                                                           | Esta pesquisa é   voltada para aspectos específicos de cadastro para a gestão territorial.   Envolve os métodos de implantação, manutenção e gerenciamento de cadastro e   cartografia para planejamentos urbano e rural e cadastro   de&#10;concessionárias de serviços públicos.                                        | Lattes  | 2002 |
 |                                 |                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                           |         |      |
