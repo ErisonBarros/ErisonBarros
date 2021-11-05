@@ -10,8 +10,9 @@
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
  
 # About me
-I'm a {Master in Geodetic Sciences and Geoinformation Technologies Cartographer Engineer, Building Technician} developer and Geospatial data science Research  and Topograph and Adjustment of Observations.
 
+**I'm a Master in Geodetic Sciences and Geoinformation Technologies Cartographer Engineer, Building Technician developer and Geospatial data science Research  and Topograph and Adjustment of Observations.**
+---
 I am a master in Geodetic Sciences and Geoinformation Technologies from the Federal University of Pernambuco (2011) UFPE.He has a degree in Cartographic Engineering from the Federal University of Pernambuco (2007) UFPE. Medium Level Technical Education in Buildings by CEFET-PE (IFPE), Specialization in Auditing, Evaluation and Expertise of Engineering (2014) by IPOG. PhD in progress in Civil Engineering at the Federal University of Pernambuco, in the concentration area: Transportation and Management of Urban Infrastructure. Currently hold the position of Assistant Professor in the Department of Cartographic Engineering (Decart) at the Federal University of Pernambuco - UFPE; He was Coordinating Inspector of the Regional Council of Engineering and Agronomy of Pernambuco in Carpina-PE (2009-2017). He was substitute professor in the Department of Cartographic Engineering at the Federal University of Pernambuco - UFPE. He has been a Technician in Agrarian Reform and Development for the National Institute of Colonization and Agrarian Reform INCRA in the Superintendence of the state of Pernambuco SR 03 (PE). He served as Vice President of the Rural Property Certification Committee of the Pernambuco Regional Superintendency SR03 (PE). He was a member of the Test and Approval Team of the Land Management System - SIGEF. Member of the WG System of Automated Certification of Rural Properties. Substitute Professor at the Department of Cartographic Engineering of UFPE.
 
 ## Areas of Interest
@@ -27,9 +28,16 @@ I am a master in Geodetic Sciences and Geoinformation Technologies from the Fede
 ## Links
 - [UFPE](https://www.ufpe.br/decart) 👨🏼‍🏫 - These are college courses on many technologies, R, Python e Qgis and more.https://www.ufpe.br/decart
 - [Blog](https://proferisonbarros.blogspot.com/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
-- [Blog](https://linktr.ee/ProfErisonBarros) 👨 - Activities I develop at the Cartographic Engineering Department at UFPE.https://linktr.ee/ProfErisonBarros
+- [Blog](https://linktr.ee/ProfErisonBarros) ✍ - Activities I develop at the Cartographic Engineering Department at UFPE.https://linktr.ee/ProfErisonBarros
+- [Blog](https://erisonbarros.hashnode.dev/) ✍ - Publications.https://erisonbarros.hashnode.dev/
+- [Sites](https://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial) 👨🏼‍🏫  - Internship coordination site: https://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial
+- [Sites](https://sites.google.com/view/labat/01) 👨🏼‍🏫  - Topographic Automation Laboratory: https://sites.google.com/view/labat/01
 
 ## Professional experience
+-
+-
+-
+
 
 ## Academic background/education
 
@@ -319,57 +327,72 @@ https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf
 1. OLIVERA, A. M.; BARROS, E. R. O.; ALCANTRA, L. A.; SANTOS, J. G. V.
 A Informação Geoespacial para Compreensão da Dinâmica do Mercado Imobiliário: Um estudo do
 Impacto de Alagamento Urbano, 2017. (Simpósio,Apresentação de Trabalho)
+
 2. BARROS, E. R. O.
 Análise Espaço-Temporal do Impacto da Duplicação da BR-408 no Mercado Imobiliário de
 Paudalho-PE, 2017. (Congresso,Apresentação de Trabalho)
+
 3. OLIVERA, A. M.; BARROS, E. R. O.
 Aspectos do Sistema Cadastral Brasileiro e da Engenharia de Avaliação na Implementação da
 Gestão Territorial, 2017. (Outra,Apresentação de Trabalho)
+
 4. OLIVERA, A. M.; BARROS, E. R. O.; SOUZA, J. E. A. N.
 Os aspectos geoespaciais da densidade de arborização urbana em estudos de avaliação de
 imóveis, 2017. (Congresso,Apresentação de Trabalho)
+
 5. BARROS, E. R. O.
 9° Bate-Papo CREAJr-PE, 2017. (Conferência ou palestra,Apresentação de Trabalho)
+
 6. BARROS, E. R. O.
 Papel do Levantamento Cartográfico na Regularização Fundiária, 2016. (Outra,Apresentação de
 Trabalho)
+
 7. BARROS, E. R. O.; CARNEIRO, A. F. T.
 AVALIAÇÃO DA QUALIDADE DO SISTEMA NACIONAL DE CERTIFICAÇÃO DE IMÓVEIS - SNCI SOB
 A PERSPECTIVA DA ISO 19.113, 2011. (Congresso,Apresentação de Trabalho)
+
 8. RIBEIRO, C.; Silvane Karoline Silva Paixão; BARROS, E. R. O.; CARNEIRO, A. F. T.
 Ação Discriminatória de Terras Públicas: Procedimentos Legais, Administrativos e Técnicos, 2010.
 (Simpósio,Apresentação de Trabalho)
+
 9. BARROS, E. R. O.
 Georreferênciamento de Imóveis Rurais e a Lei 10.267/2001, 2010. (Conferência ou
 palestra,Apresentação de Trabalho)
-10.
-BARROS, E. R. O.; CARNEIRO, A. F. T.
+
+10. BARROS, E. R. O.; CARNEIRO, A. F. T.
 QUALIDADE DO SISTEMA DE CERTIFICAÇÃO DE IMÓVEIS RURAIS., 2010. (Simpósio,Apresentação
 de Trabalho)
+
 11. SOUZA NETO; BARROS, E. R. O.; CARNEIRO, A. F. T.; Silvane Karoline Silva Paixão
 O USO DA IDE NA GESTÃO TERRITORIAL, 2009. (Seminário,Apresentação de Trabalho)
+
 12. BARROS, E. R. O.
 ANÁLISE DA PRECISÃO DE LEVANTAMENTOS CADASTRAIS INTEGRADOS, 2007.
 (Outra,Apresentação de Trabalho)
+
 13. Verônica Wilma Bezerra Azevedo; CARNEIRO, A. F. T.; Daniel Carneiro da Silva; BARROS, E. R. O.
 ANÁLISE DA TEORIA DOS MÉTODOS DE COMPENSAÇÃO E AJUSTAMENTO DE POLIGONAIS
 PARA DELIMITAÇÃO DE IMÓVEIS, 2006. (Simpósio,Apresentação de Trabalho)
-14.
-Verônica Wilma Bezerra Azevedo; BARROS, E. R. O.; Alison Galdino de Oliveira Silva; Fabio
+
+14. Verônica Wilma Bezerra Azevedo; BARROS, E. R. O.; Alison Galdino de Oliveira Silva; Fabio
 Fernandes da Silva; Carlos Alberto Borba Schuler
 FOTOINTERPRETAÇÃO DE ANAGLIFOS UTILIZANDO IMAGENS DIGITALIZADAS A PARTIR DE
 SCANNERS DE MESA E FOTOGRAMÉTRICO., 2006. (Simpósio,Apresentação de Trabalho)
+
 15. BARROS, E. R. O.
 DESENVOLVIMENTO DE APLICATIVO PARA O TRATAMENTO ESTATÍSTICO DE DETERMINAÇÃO
 DE COORDENADAS DE LIMITES DE IMÓVEIS, 2005. (Outra,Apresentação de Trabalho)
+
 16. BARROS, E. R. O.; Verônica Wilma Bezerra Azevedo; CARNEIRO, A. F. T.
 DETERMINAÇÃO DAS COORDENADAS DE LIMITES IMOBILIÁRIOS, 2005. (Congresso,Apresentação
 de Trabalho)
+
 17. BARROS, E. R. O.; Fabio Fernandes da Silva; Alison Galdino de Oliveira Silva; Verônica Wilma Bezerra
 Azevedo; Carlos Alberto Borba Schuler
 IMAGENS ANAGLIFOS OU ESTEREOSCÓPIO DE REFLEXÃO NA QUALIFICAÇÃO E
 QUANTIFICAÇÃO DE ASSENTAMENTOS IRREGULARES EM ÁREAS DE RISCO, 2005.
 (Congresso,Apresentação de Trabalho)
+
 18. Fabio Fernandes da Silva; BARROS, E. R. O.; GUIMARAES, L. M.
 PROGRAMA DESEMVOLVIDO EM MATLAB PARA PROCESSAMENTO DE IMAGEM DIGITAL, 2004.
 (Simpósio,Apresentação de Trabalho)
@@ -377,8 +400,10 @@ PROGRAMA DESEMVOLVIDO EM MATLAB PARA PROCESSAMENTO DE IMAGEM DIGITAL, 2004.
 ## Consulting and advisory services
 1. BARROS, E. R. O.
 Consultor Técnico da Empresa ECONSULTORIA AMBIENTAL Ltda, 2014
+
 2. BARROS, E. R. O.; MORENO, J. A. T.
 EIA/RIMA da duplicação da BR 423 no trecho que liga São Caetano à Garanhuns, 2013
+
 3. BARROS, E. R. O.
 Consulto Técnico da Emprobio, 2005
 
