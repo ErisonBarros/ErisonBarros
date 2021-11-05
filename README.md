@@ -32,6 +32,7 @@ I am a master in Geodetic Sciences and Geoinformation Technologies from the Fede
 - [Blog](https://erisonbarros.hashnode.dev/) ✍ - Publications.https://erisonbarros.hashnode.dev/
 - [Sites](https://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial) 👨🏼‍🏫  - Internship coordination site: https://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial
 - [Sites](https://sites.google.com/view/labat/01) 👨🏼‍🏫  - Topographic Automation Laboratory: https://sites.google.com/view/labat/01
+- [Book] (https://erisonbarros.github.io/bookpython_ufpe/docs/index.html) 👨🏼‍🏫 - Python Book for Engineering Cartographers and Surveyors:https://erisonbarros.github.io/bookpython_ufpe/docs/index.html
 
 ## Professional experience
 -
