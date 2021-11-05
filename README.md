@@ -335,7 +335,79 @@ Papel do Levantamento Cartográfico na Regularização Fundiária, 2016. (Outra,
 Trabalho)
 7. BARROS, E. R. O.; CARNEIRO, A. F. T.
 AVALIAÇÃO DA QUALIDADE DO SISTEMA NACIONAL DE CERTIFICAÇÃO DE IMÓVEIS - SNCI SOB
+A PERSPECTIVA DA ISO 19.113, 2011. (Congresso,Apresentação de Trabalho)
+8. RIBEIRO, C.; Silvane Karoline Silva Paixão; BARROS, E. R. O.; CARNEIRO, A. F. T.
+Ação Discriminatória de Terras Públicas: Procedimentos Legais, Administrativos e Técnicos, 2010.
+(Simpósio,Apresentação de Trabalho)
+9. BARROS, E. R. O.
+Georreferênciamento de Imóveis Rurais e a Lei 10.267/2001, 2010. (Conferência ou
+palestra,Apresentação de Trabalho)
+10.
+BARROS, E. R. O.; CARNEIRO, A. F. T.
+QUALIDADE DO SISTEMA DE CERTIFICAÇÃO DE IMÓVEIS RURAIS., 2010. (Simpósio,Apresentação
+de Trabalho)
+11. SOUZA NETO; BARROS, E. R. O.; CARNEIRO, A. F. T.; Silvane Karoline Silva Paixão
+O USO DA IDE NA GESTÃO TERRITORIAL, 2009. (Seminário,Apresentação de Trabalho)
+12. BARROS, E. R. O.
+ANÁLISE DA PRECISÃO DE LEVANTAMENTOS CADASTRAIS INTEGRADOS, 2007.
+(Outra,Apresentação de Trabalho)
+13. Verônica Wilma Bezerra Azevedo; CARNEIRO, A. F. T.; Daniel Carneiro da Silva; BARROS, E. R. O.
+ANÁLISE DA TEORIA DOS MÉTODOS DE COMPENSAÇÃO E AJUSTAMENTO DE POLIGONAIS
+PARA DELIMITAÇÃO DE IMÓVEIS, 2006. (Simpósio,Apresentação de Trabalho)
+14.
+Verônica Wilma Bezerra Azevedo; BARROS, E. R. O.; Alison Galdino de Oliveira Silva; Fabio
+Fernandes da Silva; Carlos Alberto Borba Schuler
+FOTOINTERPRETAÇÃO DE ANAGLIFOS UTILIZANDO IMAGENS DIGITALIZADAS A PARTIR DE
+SCANNERS DE MESA E FOTOGRAMÉTRICO., 2006. (Simpósio,Apresentação de Trabalho)
+15. BARROS, E. R. O.
+DESENVOLVIMENTO DE APLICATIVO PARA O TRATAMENTO ESTATÍSTICO DE DETERMINAÇÃO
+DE COORDENADAS DE LIMITES DE IMÓVEIS, 2005. (Outra,Apresentação de Trabalho)
+16. BARROS, E. R. O.; Verônica Wilma Bezerra Azevedo; CARNEIRO, A. F. T.
+DETERMINAÇÃO DAS COORDENADAS DE LIMITES IMOBILIÁRIOS, 2005. (Congresso,Apresentação
+de Trabalho)
+17. BARROS, E. R. O.; Fabio Fernandes da Silva; Alison Galdino de Oliveira Silva; Verônica Wilma Bezerra
+Azevedo; Carlos Alberto Borba Schuler
+IMAGENS ANAGLIFOS OU ESTEREOSCÓPIO DE REFLEXÃO NA QUALIFICAÇÃO E
+QUANTIFICAÇÃO DE ASSENTAMENTOS IRREGULARES EM ÁREAS DE RISCO, 2005.
+(Congresso,Apresentação de Trabalho)
+18. Fabio Fernandes da Silva; BARROS, E. R. O.; GUIMARAES, L. M.
+PROGRAMA DESEMVOLVIDO EM MATLAB PARA PROCESSAMENTO DE IMAGEM DIGITAL, 2004.
+(Simpósio,Apresentação de Trabalho)
 
+## Consulting and advisory services
+1. BARROS, E. R. O.
+Consultor Técnico da Empresa ECONSULTORIA AMBIENTAL Ltda, 2014
+2. BARROS, E. R. O.; MORENO, J. A. T.
+EIA/RIMA da duplicação da BR 423 no trecho que liga São Caetano à Garanhuns, 2013
+3. BARROS, E. R. O.
+Consulto Técnico da Emprobio, 2005
+
+## Technical Papers
+1. BARROS, E. R. O.
+Georreferenciamento para Certificação de Imóveis Rurais de Projetos de Assentamento, 2014
+2. BARROS, E. R. O.
+Participação no Relatório de Controle Ambiental – RCA referente à construção de um atracadouro
+e retificação da margem direita do Rio Potengi Natal/RN, 2014
+3. BARROS, E. R. O.
+Plano Geral de Implantação do Parque do Jiquiá - Torre do Zeppelin - no bairro do Jiquiá,
+município Recife-PE., 2014
+4. BARROS, E. R. O.
+Elaboração de Estudo de Impacto Ambiental/ Relatório de Impacto Ambiental (EIA- RIMA), Planos
+Básicos Ambientais – PBAs, Audiências Públicas e licenciamento ambiental, referente ao Projeto
+Executivo de Duplicação da Rodovia BR-116/CE, trecho: Pacajus, Boqueirão do Cesário , com
+58,94 km de extensão., 2013
+5. BARROS, E. R. O.
+ELABORAÇÃO DOS MAPAS DE ESTUDO DE IMAPCTO AMBIENTAL DA DUPLICAÇAO E
+CONSERVAÇAO DA BR 423 ENTRE OS MUNCIPIOS DE SAO CAETANO A GARANHUNS, 2013
+6.
+BARROS, E. R. O.
+Testes e Homologação no Sistema de Gestão Fundiária- SIGEF, 2013
+7. BARROS, E. R. O.
+Elaboração do inventário florestal, Plano Desmatamento Racional e projeto de Reposição Florestal
+de uma área de 40 hectares na área de implantação do Terminal Aquaviário do Pecém/CE., 2012
+8. BARROS, E. R. O.
+Relatório Técnico de Indentificação e Delimitação do Território da Comunidade Remanescente de
+Quilombo do Tímbó, 2011
 
 ## Compact Language Card Layout
 
