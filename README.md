@@ -29,6 +29,31 @@ I am a master in Geodetic Sciences and Geoinformation Technologies from the Fede
 - [Blog](https://proferisonbarros.blogspot.com/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
 - [Blog](https://linktr.ee/ProfErisonBarros) 👨 - Activities I develop at the Cartographic Engineering Department at UFPE.https://linktr.ee/ProfErisonBarros
 
+## Professional experience
+
+## Academic background/education
+
+**2017** Doutorado em Engenharia Civil.
+Universidade Federal de Pernambuco, UFPE, Recife, Brasil
+Orientador: Maurício Oliveira de Andrade
+
+**2009 - 2011** Mestrado em Ciênc. Geodésicas e Tecnologias da Geoinformação.
+Universidade Federal de Pernambuco, UFPE, Brasil
+Título: UMA PROPOSTA PARA O CONTROLE DE QUALIDADE DO PROCESSO DE CERTIFICA
+DE IMÓVEIS RURAIS, Ano de obtenção: 2011
+Orientador: Andréa Flávia Tenório Carneiro
+
+**2012 - 2014**  Especialização em Auditória, Avaliação e Perícia em Engenharia.
+Instituto de Pós-Graduação e Graduação, IPOG, Goiania, Brasil
+Título: A incerteza da Informação Geométrica na Avaliação de Imóveis
+
+**2001 - 2007** Graduação em Engenharia Cartográfica.
+Universidade Federal de Pernambuco, UFPE, Brasil
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico
+
+**1996 - 1999** Ensino Profissional de nível técnico .
+CENTRO FEDERAL DE EDUCAÇÃO TECNOLOGICA DE PERNAMBUCO, CEFET-PE, Brasil
+
 ## Programming Languages
  - R
  - Python
@@ -36,6 +61,7 @@ I am a master in Geodetic Sciences and Geoinformation Technologies from the Fede
 ## Geoprocessing programs
  - Qgis
  - ArcGis
+ - AutocadMap
 
 
 [![Tests](https://github.com/qgis/QGIS/workflows/QGIS%20tests/badge.svg)](https://github.com/qgis/QGIS/actions/workflows/run-tests.yml?query=branch%3Amaster+event%3Apush)
@@ -150,7 +176,82 @@ ESTUDO DA APLICAÇÃO DA ISO 19.152 PARA O APERFEIÇOAMENTO DO CADASTRO TERRITOR
  
  [Proof](https://periodicos.utfpr.edu.br/rbgeo/about/editorialTeamBio/8924)
  
+## Papers published in annals of events (complete)
 
+1. BARROS, E. R. O.; OLIVEIRA, A. F. F.; DOURADO, A. B. F.; ANDRADE, M. O.
+ANÁLISE DOS GRUPOS DE INTERESSE E SEUS NÍVEIS DE INFLUÊNCIA RELACIONADOS AO
+PROJETO DE NAVEGABILIDADE DO RIO CAPIBARIBE In: XX Congreso Latinoamericano de Transporte
+Público y Urbano, 2015, Medellin - Colombia.
+Actas del XX Congreso Latinoamericano de Transporte Público y Urbano.. , 2018.
+2. RIBEIRO NETO, L. G.; BARROS, E. R. O.; SANTOS, E. M.
+ÍNDICE DE QUALIDADE DE SERVIÇO PARA INTEGRAÇÃO DE VIAGENS INTERMODAIS
+CONSTITUÍDAS POR CAMINHADAS E O TRANSPORTE COLETIVO DE PASSAGEIROS In: Anais do
+XXXII Congresso de Pesquisa e Ensino em Transportes - 2017 1ª Edição – 2018, 2018, GRAMADOS-RS.
+Anais do XXXII Congresso de Pesquisa e Ensino em Transportes - 2018. , 2018.
+3. NOGUEIRA JUNIOR, J. V.; SILVA, T. A.; FRANCA, L. L. S.; ALCANTRA, L. A.; BARROS, E. R. O.
+METODOLOGIA PARA PRODUÇÃO DE CARTAS TEMÁTICAS PARA O EXERCÍCIO DE SIMULAÇÃO
+DE COMBATE DO COMANDO MILITAR DO NORDESTE (CMNE) In: Anais Do VII - SIMGEO -
+Mapeamento da Superfície da Terra - Estado da Arte, 2018, Recife.
+VII Simpósio Brasileiros de Ciências Geodésicas e Tecnologia da Geoinformação. Recife: Editora
+UFPE, 2018. p.333 - 341
+4. OLIVERA, A. M.; BARROS, E. R. O.; FONSECA, R. C.; SILVA, L. I. D.
+MODELAGEM ESPACIAL DA QUALIDADE DE SERVIÇOS HOTELEIROS DE BOA VIAGEM, RECIFE. In:
+VII SIMPÓSIO BRASILEIRO DE CIÊNCIAS GEODÉSICAS E TECNOLOGIAS DA GEOINFORMAÇÃO,
+2018, Recife.
+Anais do VII - SIMGEO - Mapeamento da Superfície Terrestre -Estado da Arte. Recife: Editora UFPE,
+2018. p.342 - 348
+5. BARROS, E. R. O.; OLIVERA, A. M.; SOUZA, J. E. A. N.
+A ATUAÇÃO DA COMPONENTE GEOESPACIAL DOS EMPREENDIMENTOS COMERCIAIS NO
+MERCADO IMOBILIARIO In: II Jornadas Lusófonas sobre Ciências e Tecnologias de Informação
+Geográfica – CTIG 2017, 2017, UNESP / Presidente Prudente.
+IV Simpósio Brasileiro de Geomática 2017. , 2017.
+6. OLIVERA, A. M.; BARROS, E. R. O.; ALCANTRA, L. A.; SANTOS, J. G. V.
+A Informação Geoespacial para compreensão da dinâmica do mercado imobiliário: Um estudo do impacto
+de alagamentos urbanos. In: VIII Geonordeste - Simpósio Regional de Geoprocessamento e
+Sensoriamento Remoto, 2017, Salvador - BA. Anais do VIII Anais do VIII Geonordeste - Simpósio
+Regional de Geoprocessamento e Sensoriamento Remoto, 2017., 2017, Salvador.
+A Informação Geoespacial para compreensão da dinâmica do mercado imobiliário: Um estudo do
+impacto de alagamentos urbanos. , 2017.
+7. OLIVERA, A. M.; BARROS, E. R. O.
+ANALISE DA NECESSIDADE DAS REPETIÇÕES E LEITURAS CONJUGADAS NA TOPOGRAFIA PARA
+A OBTENÇÃO DOS LIMITES CADASTRAIS DE UM IMÓVEL URBANO In: XXVII CONGRESSO
+BRASILEIRO DE CARTOGRAFIA, 2017, RIO DE JANEIRO.
+XXVII CONGRESSO BRASILEIRO DE CARTOGRAFIA XXVI EXPOSICARTA. , 2017.
+8. BARROS, E. R. O.; OLIVERA, A. M.
+Analise da Necessidade das Repetições e Leituras Conjugadas na Topografia para Obtenção dos Limites
+Cadastrais de um Imóvel Urbano. In: XXVII CONGRESSO BRASILEIRO DE CARTOGRAFIA, 2017,
+Escola Naval, RJ.
+XXVII CONGRESSO BRASILEIRO DE CARTOGRAFIA XXVI EXPOSICARTA. , 2017.
+9. OLIVERA, A. M.; BARROS, E. R. O.; SILVA, I. D.; SANTOS, J. G. V.
+Análise Espaço-Temporal do Impacto da Duplicação da BR-408 no Mercado Imobiliário de Paudalho-PE
+In: XXVII CONGRESSO BRASILEIRO DE CARTOGRAFIA, 2017, Escola Naval, RJ.
+XXVII CONGRESSO BRASILEIRO DE CARTOGRAFIA XXVI EXPOSICARTA. , 2017.
+10. BARROS, E. R. O.; OLIVERA, A. M.; SANTOS, J. G. V.; SILVA, I. D.; MAFRA, H. M. G.
+As Potencialidades e Limitações do Uso do VANT no Monitoramento de Faixa de Domínio de Rodovias
+Federais In: XVII CONGRESSOI BARSILEIRO DE CARTOGRAFIA XXVI EXPOSICARTA, 2017, Escola
+Naval, RJ.
+O uso da Dados Geoespaciais em Modelos de Regressão Logística na Determinação de
+Acidentes por Atropelamento em Áreas Urbanas. , 2017.
+11. SANTOS, J. G. V.; LIMA JUNIOR, C. O.; BARROS, E. R. O.
+ESTUDO DO COMPORTAMENTO E REPRESENTAÇÃO DAS INCERTEZAS DE POLÍGONOS
+CERTIFICADO PELO SISTEMA DE GESTÃO FUNDIÁRIA – SIGEF In: XXVII CONGRESSO
+BRASILEIRO DE CARTOGRAFIA, 2017, http://www.cartografia.org.br/.
+XXVII CONGRESSO BRASILEIRO DE CARTOGRAFIA XXVI EXPOSICARTA. , 2017.
+12. SANTOS, J. G. V.; BARROS, E. R. O.
+Estudo do Comportamento e Representação das Incertezas de Polígonos Certificados pelo Sistema de
+Gestão Fundiária-SIGEF In: Estudo do Comportamento e Representação das Incertezas de Polígonos
+Certificados pelo Sistema de Gestão Fundiária-SIGEF, 2017, Escola Naval, RJ.
+XXVII CONGRESSO BRASILEIRO DE CARTOGRAFIA XXVI EXPOSICARTA. , 2017.
+13. BARROS, E. R. O.; OLIVERA, A. M.; SOUZA, J. E. A. N.
+OS ASPECTOS GEOESPACIAIS DA DENSIDADE DE ARBORIZAÇÃO URBANA EM ESTUDOS DE
+AVALIAÇÃO DE IMÓVEIS In: Congresso Técnico Científico da Engenharia e da Agronomia
+CONTECC’2017, 2017, Belém PA.
+Congresso Técnico Científico da Engenharia e da Agronomia CONTECC’2017. , 2017.
+14. BARROS, E. R. O.
+A INFLUÊNCIA DA AQUISIÇÃO DA INFORMAÇÃO POSICIONAL NA AVALIAÇÃO EM MASSA DE
+IMÓVEIS POR MEIO DE MODELAGEM POR REGRESSÃO ESPACIAL In: VI Simpósio em Ciências
+Geodésicas e Tecnologias da Geoinformação, 2016, Recife.
+VI Simpósio em Ciências Geodésicas e Tecnologias da Geoinformação. , 2016. v.1. p.00 - 10
 
 ## Pesquisas
 
@@ -213,7 +314,28 @@ https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
-# Tecnologias Empregadas 
+# Paper presentation and  lecture 
+
+1. OLIVERA, A. M.; BARROS, E. R. O.; ALCANTRA, L. A.; SANTOS, J. G. V.
+A Informação Geoespacial para Compreensão da Dinâmica do Mercado Imobiliário: Um estudo do
+Impacto de Alagamento Urbano, 2017. (Simpósio,Apresentação de Trabalho)
+2. BARROS, E. R. O.
+Análise Espaço-Temporal do Impacto da Duplicação da BR-408 no Mercado Imobiliário de
+Paudalho-PE, 2017. (Congresso,Apresentação de Trabalho)
+3. OLIVERA, A. M.; BARROS, E. R. O.
+Aspectos do Sistema Cadastral Brasileiro e da Engenharia de Avaliação na Implementação da
+Gestão Territorial, 2017. (Outra,Apresentação de Trabalho)
+4. OLIVERA, A. M.; BARROS, E. R. O.; SOUZA, J. E. A. N.
+Os aspectos geoespaciais da densidade de arborização urbana em estudos de avaliação de
+imóveis, 2017. (Congresso,Apresentação de Trabalho)
+5. BARROS, E. R. O.
+9° Bate-Papo CREAJr-PE, 2017. (Conferência ou palestra,Apresentação de Trabalho)
+6. BARROS, E. R. O.
+Papel do Levantamento Cartográfico na Regularização Fundiária, 2016. (Outra,Apresentação de
+Trabalho)
+7. BARROS, E. R. O.; CARNEIRO, A. F. T.
+AVALIAÇÃO DA QUALIDADE DO SISTEMA NACIONAL DE CERTIFICAÇÃO DE IMÓVEIS - SNCI SOB
+
 
 ## Compact Language Card Layout
 
