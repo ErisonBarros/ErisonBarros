@@ -4,11 +4,11 @@
 </body>
 </html>
  
- [hashnode](https://erisonbarros.hashnode.dev/)
 
- | ![](https://simgbb.com/avatar/NgkcKW28xFdV.jpg) | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/erobeng)](https://github.com/erobeng) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erisonbarros-7128621b8/)](https://www.linkedin.com/in/erisonbarros-7128621b8/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Erobeng)](https://twitter.com/fagnerpsantos) [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf-oBG1kqnpAFrzaiW93kmg)](https://www.youtube.com/channel/UCf-oBG1kqnpAFrzaiW93kmg) [![Youtube Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://https://www.facebook.com/erison.barros)](https://www.facebook.com/erison.barros) <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4879-6880" href="https://orcid.org/0000-0003-4879-6880" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4879-6880</a></div> |
+
+ | ![](https://simgbb.com/avatar/NgkcKW28xFdV.jpg) | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/erobeng)](https://github.com/erobeng) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erisonbarros-7128621b8/)](https://www.linkedin.com/in/erisonbarros-7128621b8/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Erobeng)](https://twitter.com/fagnerpsantos) [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf-oBG1kqnpAFrzaiW93kmg)](https://www.youtube.com/channel/UCf-oBG1kqnpAFrzaiW93kmg) [![Youtube Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://https://www.facebook.com/erison.barros)](https://www.facebook.com/erison.barros) <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4879-6880" href="https://orcid.org/0000-0003-4879-6880" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4879-6880</a></div> [Cuurículo Lattes](http://lattes.cnpq.br/8237482217038157) |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
- 
+ [hashnode](https://erisonbarros.hashnode.dev/)
 # About me
 
 **I'm a Master in Geodetic Sciences and Geoinformation Technologies Cartographer Engineer, Building Technician developer and Geospatial data science Research  and Topograph and Adjustment of Observations.**
@@ -35,10 +35,83 @@ I am a master in Geodetic Sciences and Geoinformation Technologies from the Fede
 - [Book] (https://erisonbarros.github.io/bookpython_ufpe/docs/index.html) 👨🏼‍🏫 - Python Book for Engineering Cartographers and Surveyors:https://erisonbarros.github.io/bookpython_ufpe/docs/index.html
 
 ## Professional experience
--
--
--
+---
+> **Universidade Federal de Pernambuco, UFPE, Brasil.**
+Vínculo institucional 2015 - Atual
+Vínculo: Prof. Assistente, Enquadramento Funcional: Professor Assistente A-1, Carga horária: 40, Regime: Dedicação exclusiva. Vínculo institucional
+---
+---
+> **Universidade Federal de Pernambuco, UFPE, Brasil.**
+2015 - 2015 Vínculo: Professor Substituto, Enquadramento Funcional: Professor Substituto, Carga horária: 20
+---
 
+---
+> **Instituto Nacional de Colonização e Reforma Agrária - INCRA, Brasil.**
+2006 - 2015 Vínculo: Técnico em Reforma e Desenvolvimento Agrário, Enquadramento Funcional: Técnico, Carga horária: 40
+---
+
+---
+> **Prefeitura Municipal de Paudalho - PMP, Brasil.**
+2006 - 2015 Vínculo: Técnico em Edificações, Enquadramento Funcional: Técnico, Carga horária: 20
+---
+
+## Atividades
+
+09/2015 - 01/2016
+Ensino, Engenharia Cartográfica, Nível: Graduação
+
+Disciplinas ministradas
+Instrumento de Medição
+Legislação e Normas Técnicas
+Topografia 1
+Topografia 10
+Topografia 2
+Topografia 9
+
+Conselho Regional de Engenharia e Agronômia de Pernambuco, CREA-PE, Brasil.
+Vínculo institucional
+
+- 2009 - Atual
+Vínculo: Inspetor Regioanal, Enquadramento Funcional: Inspetor Regioanal, Carga horária: 2
+Outras informações
+São serviços prestados a nação.
+
+
+Instituto Nacional de Colonização e Reforma Agrária - SR 03(PE), INCRA-SR03/PE, Brasil.
+Vínculo institucional
+
+- **2006 - 2015**
+Vínculo: Servidor Público, Enquadramento Funcional: TÉCNICO EM REFORMA E DESENVOLVIMENTO AGRÁRIO, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Atividades
+
+- **09/2015 - Atual**
+Ensino, Engenharia Civil, Nível: Graduação
+
+Disciplinas ministradas
+Topografia 9; Topografia 10
+
+HG2 CURSOS, HG2, Brasil.
+Vínculo institucional
+
+>**2012 - 2015**
+Vínculo: Professor Visitante, Enquadramento Funcional: Professor de Cartografia e Ajustamento, Carga horária: 20
+Centro de Ensino Grau Técnico, GRAU TÉCNICO, Brasil.
+Vínculo institucional
+
+> **2014 - 2015**
+Vínculo: Professor Visitante, Enquadramento Funcional: Instrutor, Carga horária: 12
+Fundação Apolônio Sales, FARDUPE, Brasil.
+Vínculo institucional
+
+> **2012 - 2012 **
+Vínculo: Professor Visitante, Enquadramento Funcional: Professor de Topografia e Cartografia, Carga horária: 60
+
+
+> **2001 - 2006**
+Prefeitura Municipal de Paudalho, PMP, Brasil.
+Vínculo institucional
+Vínculo: Servidor Público, Enquadramento Funcional: Técnico em Edificações, Carga horária: 30
 
 ## Academic background/education
 
