@@ -512,7 +512,12 @@ Quilombo do Tímbó, 2011
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErisonBarros&layout=compact)](https://github.com/ErisonBarros/github-readme-stats)
 
-# Tecnologias
+
+# Technologies
+| **Languages** 	| **Database** 	| **IDE** 	| **Spatial software** 	|
+|---	|---	|---	|---	|
+| ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 	| ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 	| ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 	| ![](https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white) 	|
+|  	|  	| ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 	|  	|
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
