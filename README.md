@@ -220,7 +220,7 @@ https://erobeng.wixsite.com/ufpe
 - Technical Report of Indentification and Delimitation of the Territory of the Quilombo Remnant Community of Tímbó 2011
 
 # Formação Acadêmica
-* Doutorado em andamento em Engenharia Civil  - 2017 - Atual Universidade Federal de Pernambuco
+* Doutor em Engenharia Civil  - 2022- Atual Universidade Federal de Pernambuco - UFPE
   Orientador: Maurício Oliveira de Andrade
 * Mestrado em Ciências Geodésicas e Tecnologias da Geoinformação - 2009 - 2011
 * Especialização em Auditória, Avaliação e Perícia em Engenharia - 2012 - 2014
