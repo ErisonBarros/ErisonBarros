@@ -28,6 +28,8 @@
 - Land Use
 - Geographical Data Science
 - Geographic Intelligence Models
+- Computer Vision
+- Photogrammetry
 
 ## Links
 - [UFPE](https://www.ufpe.br/decart) 👨🏼‍🏫 - These are college courses on many technologies, R, Python e Qgis and more.https://www.ufpe.br/decart
