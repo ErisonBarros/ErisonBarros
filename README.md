@@ -539,3 +539,8 @@ https://www.instagram.com/tv/CGBYEe6l0c6/
 https://decartufpe.org/quem-somos-2/
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+ # Referencias 
+ 
+BARROS, Erison Rosa de Oliveira; ANDRADE, Mauricio Oliveira de; SILVA, Carlos Fabricio Assunção da. Spatial analysis of land use and land cover change and irregular settlements along BR-104, in Northeast Brazil. Latin American Transport Studies, v. 3, p. 100041, 2025. DOI: https://doi.org/10.1016/j.latran.2025.100041
+.
