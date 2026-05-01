@@ -6,7 +6,7 @@
  
 ## Introdução o Currículo
 
-**Erison Barros**
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4879--6880-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4879-6880)
 
 
