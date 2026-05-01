@@ -7,10 +7,9 @@
 ## Introdução o Currículo
 
 **Erison Barros**
-
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4879--6880-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4879-6880)
 
-[hashnode](https://erisonbarros.hashnode.dev/)
+
 # About me
 
 **I'm a PhD in Civil Engineering in the concentration area: Transportation and Urban Infrastructure Management. Master in Geodetic Sciences and Geoinformation Technologies Cartographer Engineer, Building Technician developer and Geospatial data science Research  and Topograph and Adjustment of Observations.**
