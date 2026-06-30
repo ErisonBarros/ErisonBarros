@@ -537,9 +537,6 @@ Quilombo do Tímbó, 2011
 
 # Audio Visual
 
-<img src="https://i.ibb.co/LgjLyw1/tela.jpg" alt="tela" border="0">
-https://www.instagram.com/tv/CGBYEe6l0c6/
-
 ![](https://decartufpe.org/wp-content/uploads/2020/08/covid-19-DECART_final.png) 
 https://decartufpe.org/quem-somos-2/
 
