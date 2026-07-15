@@ -10,3 +10,5 @@ lulcc_*.tar.gz
 *.Rproj
 *.Rproj.user
 .Rproj.user
+venv/
+venv/
