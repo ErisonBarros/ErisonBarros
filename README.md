@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
- <h1> Prof. Dr. Erison Rosa de Oliveira Barros!  </h1>
+ <h1> Prof. Dr. Erison Rosa de Oliveira Barros  </h1>
 </body>
 </html>
  
