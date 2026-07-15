@@ -39,7 +39,7 @@ Served as Vice President of the Rural Property Certification Committee of the Pe
 - [Blog](https://proferisonbarros.blogspot.com/) ✍🏼 - I'm write about many things. https://proferisonbarros.blogspot.com/
 - [Blog](https://linktr.ee/ProfErisonBarros) ✍ - Activities I develop at the Cartographic Engineering Department at UFPE.https://linktr.ee/ProfErisonBarros
 - [Blog](https://erisonbarros.hashnode.dev/) ✍ - Publications.https://erisonbarros.hashnode.dev/
-- [Sites](https://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial) 👨🏼‍🏫  - Internship coordination site: https://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial
+- [Sites](https://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial) 👨🏼‍🏫  - Internship coordination site: ttps://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial
 - [Sites](https://sites.google.com/view/labat/01) 👨🏼‍🏫  - Topographic Automation Laboratory: https://sites.google.com/view/labat/01
 - [Book] (https://erisonbarros.github.io/bookpython_ufpe/docs/index.html) 👨🏼‍🏫 - Python Book for Engineering Cartographers and Surveyors:https://erisonbarros.github.io/bookpython_ufpe/docs/index.html
 
@@ -113,7 +113,7 @@ Vínculo: Professor Visitante, Enquadramento Funcional: Instrutor, Carga horári
 Fundação Apolônio Sales, FARDUPE, Brasil.
 Vínculo institucional
 
-> **2012 - 2012 **
+> **2012 - 2012**
 Vínculo: Professor Visitante, Enquadramento Funcional: Professor de Topografia e Cartografia, Carga horária: 60
 
 
@@ -153,6 +153,7 @@ CENTRO FEDERAL DE EDUCAÇÃO TECNOLOGICA DE PERNAMBUCO, CEFET-PE, Brasil
  - Qgis
  - ArcGis
  - AutocadMap
+ - Civil 
 
 
 [![Tests](https://github.com/qgis/QGIS/workflows/QGIS%20tests/badge.svg)](https://github.com/qgis/QGIS/actions/workflows/run-tests.yml?query=branch%3Amaster+event%3Apush)
@@ -180,7 +181,7 @@ QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical
     </a>
     <br />
     <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">D
       <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
     <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
