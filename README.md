@@ -66,7 +66,7 @@ Vínculo: Prof. Assistente, Enquadramento Funcional: Professor Assistente A-1, C
 
 ## Atividades
 
-09/2015 - 01/2016
+**09/2015 - 01/2016**
 Ensino, Engenharia Cartográfica, Nível: Graduação
 
 Disciplinas ministradas
