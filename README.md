@@ -42,6 +42,13 @@ Served as Vice President of the Rural Property Certification Committee of the Pe
 - [Sites](https://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial) 👨🏼‍🏫  - Internship coordination site: ttps://sites.google.com/view/coordenacaoestagiodecart/p%C3%A1gina-inicial
 - [Sites](https://sites.google.com/view/labat/01) 👨🏼‍🏫  - Topographic Automation Laboratory: https://sites.google.com/view/labat/01
 - [Book] (https://erisonbarros.github.io/bookpython_ufpe/docs/index.html) 👨🏼‍🏫 - Python Book for Engineering Cartographers and Surveyors:https://erisonbarros.github.io/bookpython_ufpe/docs/index.html
+- [SIGAA - UFPE](https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=2548073) 👨🏼‍🏫 - Perfil Pessoal no SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas: https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=2548073
+- [Search Result](https://www.ufpe.br/agencia/noticias/-/asset_publisher/V75xX0gHdfYm/content/professor-da-ufpe-lanca-livro-sobre-python/40615) 👨🏼‍🏫 - Professor da UFPE lança livro sobre Python: https://www.ufpe.br/agencia/noticias/-/asset_publisher/V75xX0gHdfYm/content/professor-da-ufpe-lanca-livro-sobre-python/40615
+- [Search Result](https://github.com/ErisonBarros) 👨🏼‍🏫 - ErisonBarros (ERISON ROSA DE OLIVEIRA BARROS) · GitHub: https://github.com/ErisonBarros
+- [Search Result](https://br.linkedin.com/in/erisonbarros-7128621b8) 👨🏼‍🏫 - Erison Rosa de Oliveira Barros - Doutor em Engenharia Civil pela ...: https://br.linkedin.com/in/erisonbarros-7128621b8
+- [Search Result](https://github.com/ErisonBarros/ErisonBarros) 👨🏼‍🏫 - GitHub - ErisonBarros/ErisonBarros: Mestre em Ciências Geodésicas e ...: https://github.com/ErisonBarros/ErisonBarros
+- [Search Result](https://www.instagram.com/erobeng/) 👨🏼‍🏫 - Erison Rosa de Oliveira Barros (@erobeng) - Instagram: https://www.instagram.com/erobeng/
+- [Search Result](https://gitlab.com/ErisonBarros) 👨🏼‍🏫 - ERISON ROSA DE OLIVEIRA BARROS - GitLab: https://gitlab.com/ErisonBarros
 
 ## Professional experience
 ---

@@ -18,24 +18,24 @@ jobs:
           - {os: macOS-latest, r: 'devel'}
           #- {os: ubuntu-latest, r: 'release'} # r-lib/actions not supported  # r-lib/actions not supported (setup-r OS)
           #- {os: ubuntu-latest, r: 'devel'} # r-lib/actions not supported  # r-lib/actions not supported (setup-r OS)
-          - {os: ubuntu-16.04, r: '3.6', cran: "https://demo.rstudiopm.com/all/__linux__/xenial/latest"}
-          # - {os: ubuntu-16.04, r: 'devel', cran: "https://demo.rstudiopm.com/all/__linux__/xenial/latest"}  # r-lib/actions not supported (setup-r R version)
-          - {os: ubuntu-18.04, r: '3.6', cran: "https://demo.rstudiopm.com/all/__linux__/bionic/latest"}
-          #- {os: ubuntu-18.04, r: 'devel', cran: "https://demo.rstudiopm.com/all/__linux__/bionic/latest"} # r-lib/actions not supported (setup-r R versin)
+          - {os: ubuntu-20.04, r: '4.2', cran: "https://demo.rstudiopm.com/all/__linux__/xenial/latest"}
+          # - {os: ubuntu-20.04, r: 'devel', cran: "https://demo.rstudiopm.com/all/__linux__/xenial/latest"}  # r-lib/actions not supported (setup-r R version)
+          - {os: ubuntu-22.04, r: '4.2', cran: "https://demo.rstudiopm.com/all/__linux__/bionic/latest"}
+          #- {os: ubuntu-22.04, r: 'devel', cran: "https://demo.rstudiopm.com/all/__linux__/bionic/latest"} # r-lib/actions not supported (setup-r R versin)
     
     env:
       R_REMOTES_NO_ERRORS_FROM_WARNINGS: true
       RSPM: ${{ matrix.config.rspm }}
     
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         
-      - uses: r-lib/actions/setup-r@master
+      - uses: r-lib/actions/setup-r@v2
         with:
           r-version: ${{ matrix.config.r }}
-      - uses: r-lib/actions/setup-pandoc@master
+      - uses: r-lib/actions/setup-pandoc@v2
       
-      - uses: r-lib/actions/setup-tinytex@v1
+      - uses: r-lib/actions/setup-tinytex@v2
         if: runner.os != 'Windows'
       
       - name: Install GDAL + qpdf / Linux
@@ -54,7 +54,7 @@ jobs:
       # From r-lib/actions
       - name: Cache R packages
         if: runner.os != 'Windows'
-        uses: actions/cache@v1
+        uses: actions/cache@v4
         with:
           path: ${{ env.R_LIBS_USER }}
           key: ${{ runner.os }}-r-${{ matrix.config.r }}-${{ hashFiles('depends.Rds') }}
@@ -81,7 +81,7 @@ jobs:
         
       - name: Upload check results
         if: failure()
-        uses: actions/upload-artifact@master
+        uses: actions/upload-artifact@v4
         with:
           name: ${{ runner.os }}-r${{ matrix.config.r }}-results
           path: check
