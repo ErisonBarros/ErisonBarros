@@ -43,6 +43,26 @@ Served as Vice President of the Rural Property Certification Committee of the Pe
 - [Sites](https://sites.google.com/view/labat/01) 👨🏼‍🏫  - Topographic Automation Laboratory: https://sites.google.com/view/labat/01
 - [Book] (https://erisonbarros.github.io/bookpython_ufpe/docs/index.html) 👨🏼‍🏫 - Python Book for Engineering Cartographers and Surveyors:https://erisonbarros.github.io/bookpython_ufpe/docs/index.html
 
+
+
+## 🔗 Principais Repositórios
+
+Repositórios públicos ativos com código aberto, mantidos ou curados.
+
+| 📦 repositório | ⭐ | 🍴 | 🎯 foco | 🔗 |
+| :--- | :-: | :-: | :--- | :--- |
+| **hermes_agent** | 2 | 0 | AI workflows (geoespacial, automação, research reproducibility) | [🔗](https://github.com/ErisonBarros/hermes_agent) |
+| **memoria** | 1 | 0 | knowledge base pessoal (clippings, papers, sessões) | [🔗](https://github.com/ErisonBarros/memoria) |
+| **PropostadeGeotecnologias** | 0 | 0 | propostas comerciais DECART/UFPE | [🔗](https://github.com/ErisonBarros/PropostadeGeotecnologias) |
+| **georref-dxf-perimetrico** | 0 | 0 | georreferenciamento automático de DXF por roteiro perimétrico | [🔗](https://github.com/ErisonBarros/georref-dxf-perimetrico) |
+| **skills-agents** | 0 | 0 | agent skills Python (Claude/Gemini/Hermes) | [🔗](https://github.com/ErisonBarros/skills-agents) |
+| **GeoLibre** | 0 | 0 | repositório de mapas colaborativos | [🔗](https://github.com/ErisonBarros/GeoLibre) |
+| **topografia9** | 0 | 0 | materiais de Topografia para Engenharia Civil | [🔗](https://github.com/ErisonBarros/topografia9) |
+| **cursodeinspercaodepontescomdrones** | 0 | 0 | curso de inspeção de pontes com drones | [🔗](https://github.com/ErisonBarros/cursodeinspercaodepontescomdrones) |
+| **curso-Georreferenciamento-com-Drone** | 0 | 0 | curso de georreferenciamento com drone | [🔗](https://github.com/ErisonBarros/curso-Georreferenciamento-com-Drone) |
+
+> Atualizado em 2026-07-23 23:10 Recife via `wiki_daily_summary.sh`.
+
 ## Professional experience
 ---
 > **Universidade Federal de Pernambuco, UFPE, Brasil.**
