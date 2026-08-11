@@ -1,0 +1,208 @@
+/* ============================================================
+   Erison Barros — GitHub Pages site (minimal markdown)
+   Renders README content directly without Cayman theme.
+   ============================================================ */
+
+:root {
+  --color-text:        #24292e;
+  --color-muted:       #586069;
+  --color-link:        #0366d6;
+  --color-link-hover:  #044289;
+  --color-border:      #e1e4e8;
+  --color-bg:          #ffffff;
+  --color-bg-alt:      #f6f8fa;
+  --color-green:       #a6ce39;
+  --font-sans:         "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-mono:         "Source Code Pro", "SF Mono", Menlo, Consolas, monospace;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-bg);
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+main.page {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 48px 24px 96px;
+}
+
+/* ---- HEADINGS ---- */
+
+h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 1.25;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.4em;
+  margin: 0.5em 0 0.8em;
+}
+
+h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.3;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.3em;
+  margin: 2em 0 0.8em;
+}
+
+h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 1.6em 0 0.6em;
+}
+
+h4 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 1.4em 0 0.5em;
+}
+
+h5, h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.2em 0 0.5em;
+}
+
+/* ---- TEXT ---- */
+
+p {
+  margin: 0 0 1em;
+}
+
+p[align="justify"] {
+  text-align: justify;
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+strong { font-weight: 700; }
+em { font-style: italic; }
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--color-border);
+  margin: 2em 0;
+}
+
+/* ---- LISTS ---- */
+
+ul, ol {
+  padding-left: 1.6em;
+  margin: 0 0 1em;
+}
+
+li {
+  margin: 0.25em 0;
+}
+
+li > p {
+  margin: 0.25em 0;
+}
+
+/* ---- BADGES (shield.io) ---- */
+
+p > a > img[src*="shields.io"],
+p > a > img[src*="badge"] {
+  display: inline-block;
+  margin: 2px 4px 2px 0;
+  vertical-align: middle;
+}
+
+/* ---- CODE ---- */
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background: var(--color-bg-alt);
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+pre {
+  background: var(--color-bg-alt);
+  padding: 16px;
+  border-radius: 6px;
+  overflow-x: auto;
+  line-height: 1.45;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+  font-size: 0.95em;
+}
+
+/* ---- TABLES ---- */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+th, td {
+  border: 1px solid var(--color-border);
+  padding: 8px 12px;
+  text-align: left;
+}
+
+th {
+  background: var(--color-bg-alt);
+  font-weight: 600;
+}
+
+tr:nth-child(even) td {
+  background: #fafbfc;
+}
+
+/* ---- BLOCKQUOTES ---- */
+
+blockquote {
+  border-left: 4px solid var(--color-green);
+  background: var(--color-bg-alt);
+  margin: 1em 0;
+  padding: 8px 16px;
+  color: var(--color-muted);
+}
+
+/* ---- IMAGES ---- */
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* ---- MOBILE ---- */
+
+@media (max-width: 640px) {
+  main.page { padding: 24px 16px 64px; }
+  h1 { font-size: 1.85rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+}

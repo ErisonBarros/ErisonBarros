@@ -1,1 +1,36 @@
-theme: jekyll-theme-cayman
+# Jekyll config for GitHub Pages — minimal markdown rendering
+# No remote theme; we ship our own CSS in /assets/css/style.css
+
+title: "Prof. Dr. Erison Rosa de Oliveira Barros"
+description: "Ph.D. em Engenharia Civil. Professor Adjunto IV do DECART/UFPE."
+
+baseurl: "/ErisonBarros"
+url: "https://erisonbarros.github.io"
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - README.md
+  - README.Rmd
+  - LICENSE
+  - R/
+  - src/
+  - man/
+  - data/
+  - inst/
+  - demo/
+  - _data/
+  - _posts/
+  - _sass/
+  - NAMESPACE
+  - DESCRIPTION
+  - Foto_perfil.png
+  - STK-20240727-WA0015.webp
+  - styles.css
